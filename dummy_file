@@ -1,0 +1,10 @@
+Hi,
+
+I was following your article about npm cache at https://www.jonathan-wilkinson.com/github-actions-cache-everything and I spotted a typo.
+
+Sorry for contacting you this way but I couldn't find an email or the option to comment on the article.
+
+On the if statement, the step id should be cache-node-modules, not cache.
+
+Thanks for sharing your knowledge.
+
